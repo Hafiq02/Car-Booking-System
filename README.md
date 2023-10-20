@@ -1,1 +1,6 @@
 # Car-Booking-System
+
+
+The Car Booking System is a versatile software application designed to facilitate vehicle rentals for customers during specific time frames. This system serves both customers and administrators. The Administrator holds the responsibility for overseeing the vehicles within the system and handling various administrative tasks. They have the capability to utilize the system to perform tasks such as adding new vehicles, updating details of existing vehicles, including model, year, type, and other specifications, removing vehicles from the system, searching for bookings based on multiple criteria, filtering bookings by status, making adjustments or rejections to reservations, and accessing a dashboard that offers insights into vehicle inventory and booking data.
+
+The dashboard presents an overview of the vehicle inventory and booking information. As for customers, they can employ the system to make reservations for their preferred vehicle, review their current and past reservations, search for bookings using diverse criteria, modify reservations by changing dates, times, or vehicle types, cancel reservations if necessary, and update their profile information, including name and contact number.
