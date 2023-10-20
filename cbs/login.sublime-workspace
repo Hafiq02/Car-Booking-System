@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mysqli_close"
+			],
+			[
+				"tb_",
+				"tb_booking"
+			],
+			[
+				"table-",
+				"table-secondary"
+			],
+			[
+				"mysqli_",
+				"mysqli_fetch_array"
+			],
+			[
+				"myqs",
+				"mysqli_query"
+			],
+			[
+				"strt",
+				"strtotime()"
+			],
+			[
+				"_",
+				"$_SESSION"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch()"
+			],
+			[
+				"echo",
+				"echo()"
+			],
+			[
+				"_se",
+				"$_SESSION"
+			],
+			[
+				"session",
+				"session_start()"
+			],
+			[
+				"_s",
+				"$_SESSION"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"cssRWD",
+				"cssRWDimages_g1"
+			],
+			[
+				"cssco",
+				"csscombinators_adjacentSiblingSelector"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/OneDrive/Documents/data structure and algorithm/segment1sorted.dat",
+		"/C/Users/User/OneDrive/Documents/data structure and algorithm/verybigdata.dat",
+		"/C/Users/User/OneDrive/Documents/data structure and algorithm/sortedfile.dat",
+		"/C/xampp/htdocs/cbs/registerprocess.php",
+		"/C/xampp/htdocs/cbs/register.php",
+		"/C/xampp/htdocs/cbs/login.php",
+		"/C/xampp/htdocs/cbs/index.php",
+		"/C/xampp/htdocs/cbs/headermain.php",
+		"/C/xampp/htdocs/cbs/footermain.php",
+		"/C/xampp/htdocs/cbs/dbconnect.php",
+		"/C/xampp/htdocs/cbs/customer.php",
+		"/C/xampp/htdocs/cbs/admin.php",
+		"/C/xampp/htdocs/carserv-1.0.0/index.html",
+		"/C/xampp/htdocs/carrepair/js/main.js",
+		"/C/xampp/htdocs/template_baru/template1.html",
+		"/C/xampp/htdocs/lab/login.php",
+		"/C/xampp/htdocs/lab/footermain.php",
+		"/C/xampp/htdocs/lab/index.php",
+		"/C/xampp/htdocs/lab/headermain.php",
+		"/C/xampp/htdocs/wanamirul/TEST.html",
+		"/C/xampp/htdocs/wanamirul/TEST2.HTML",
+		"/C/xampp/htdocs/wanamirul/phploop.php",
+		"/C/xampp/htdocs/wanamirul/phpsyntax.pho",
+		"/C/xampp/htdocs/wanamirul/jsdatesetmethods",
+		"/C/xampp/htdocs/wanamirul/jsSetmethods.html",
+		"/C/xampp/htdocs/wanamirul/index.html",
+		"/C/xampp/htdocs/wanamirul/cssRWD_images.html",
+		"/C/xampp/htdocs/wanamirul/cssfonts_fallbacks.html",
+		"/C/Users/User/Documents/HTML EXERCISE/cssFlexbox.html",
+		"/C/Users/User/Documents/HTML EXERCISE/cssdropdown_eg2",
+		"/C/Users/User/Documents/HTML EXERCISE/cssnavigation_bar_horizontal",
+		"/C/Users/User/Documents/HTML EXERCISE/csscombinators_childSelector.html",
+		"/C/Users/User/Documents/HTML EXERCISE/testing.css",
+		"/C/Users/User/Documents/HTML EXERCISE/cssfloat_eg3",
+		"/C/Users/User/Documents/HTML EXERCISE/cssfloat_eg2",
+		"/C/Users/User/Documents/HTML EXERCISE/cssfont_websafe.html",
+		"/C/Users/User/Documents/HTML EXERCISE/cssfont_family",
+		"/C/Users/User/Documents/HTML EXERCISE/cssoutline_width"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 43.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
